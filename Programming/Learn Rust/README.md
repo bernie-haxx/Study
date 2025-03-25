@@ -1,7 +1,9 @@
-# Rustaceans Square
+# Rustacean Square
 
-## Intro: Motivation
+## Intro
 
 ## Index
 
 ## Installation
+
+UNDER CONSTRUCTION

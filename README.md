@@ -17,8 +17,8 @@ This is a progressive learning experience and just using this repository to stor
 - [Installation Procedures](#installation-procedures)
 - [Books](##Books)
 - Programming
-    - Learn C
-    - Learn Rust
+    - [Learn C](/Programming/Learn%20C/)
+    - [Learn Rust](/Programming/Learn%20Rust/)
 - Systems Programming
     - Learn Assembly
 - Compilers
@@ -26,9 +26,9 @@ This is a progressive learning experience and just using this repository to stor
 ### Installation Procedures
 
 Based on the current architecture being used, which are ARM and M Chip, here are the installation setups for the various sections in this repository:
-- C compiler Installation
-- assembler Installation
-- Rust Cargo Installation
+- [C compiler Installation](/Programming/Learn%20C/README.md#Installation)
+- Assembler Installation
+- [Rust Cargo Installation](/Programming/Learn%20Rust/README.md#Installation)
 
 ### Books 
 
